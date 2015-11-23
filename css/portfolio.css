@@ -1,0 +1,7 @@
+.bubble {
+	position: absolute;
+	border: 1px solid blue;
+	width: 2em;
+	height: 2em;
+	border-radius: 100%;
+}
